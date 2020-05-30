@@ -2,6 +2,8 @@ dependencies:
   - bokeh
   - pandas
   - scipy
+  - sklearn
+  - matplotlib
   - pip
   - pip:
     - jupyter-server-proxy
