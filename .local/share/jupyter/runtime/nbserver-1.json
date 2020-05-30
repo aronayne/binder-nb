@@ -1,0 +1,11 @@
+{
+  "base_url": "/user/aronayne-binder-nb-e7vb8opd/",
+  "hostname": "0.0.0.0",
+  "notebook_dir": "/home/jovyan",
+  "password": false,
+  "pid": 1,
+  "port": 8888,
+  "secure": false,
+  "token": "YfCtb6atTsyW8UYU7KZOoQ",
+  "url": "http://0.0.0.0:8888/user/aronayne-binder-nb-e7vb8opd/"
+}
