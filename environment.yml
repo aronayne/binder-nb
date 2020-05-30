@@ -1,10 +1,20 @@
+channels:
+  - conda-forge
+  - pytorch
 dependencies:
+  - python=3.8
   - bokeh
   - pandas
   - scipy
   - scikit-learn
   - matplotlib
+  - pytorch>=1.4
+  - torchvision>=0.5
   - pip
+  - jupyter
+  - torchtext
+  - jupyterlab
   - pip:
+    - torchviz
     - jupyter-server-proxy
 
